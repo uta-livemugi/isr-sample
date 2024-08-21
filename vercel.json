@@ -1,8 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
-      "source": "/test1",
-      "destination": "https://github.com/vercel/vercel"
+      "source": "/test1/:match*",
+      "destination": "https://example.com/:match*"
     }
   ]
 }
