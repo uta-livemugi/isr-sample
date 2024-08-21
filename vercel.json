@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/test1/:index*",
+      "source": "/test1",
       "destination": "https://example.com/:match*"
     }
   ]
