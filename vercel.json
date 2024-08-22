@@ -1,1 +1,3 @@
-
+{
+  "rewrites": [{ "source": "/test1", "destination": "/test2" }]
+}
