@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/test1/index.html",
-      "destination": "https://transit.yahoo.co.jp/"
+      "destination": "https://storage.googleapis.com/test1-0822/strapi-content-types-builder.png"
     }
   ]
 }
