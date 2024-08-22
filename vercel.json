@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/test1/index.html",
-      "destination": "/test2/index.html"
+      "destination": "https://transit.yahoo.co.jp/"
     }
   ]
 }
