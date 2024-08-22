@@ -3,10 +3,8 @@ module.exports = {
     return [
       {
         source: '/test1',
-        destination: 'https://acme.com/blog',
+        destination: '/test2',
       },
     ]
   },
-
 }
-
