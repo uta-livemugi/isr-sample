@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/test1/strapi-content-types-builder.png",
+      "source": "/test1/test.png",
       "destination": "https://storage.googleapis.com/test1-0822/strapi-content-types-builder.png"
     }
   ]
